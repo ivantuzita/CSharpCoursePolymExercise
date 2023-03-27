@@ -1,0 +1,15 @@
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\bin\Debug\net6.0\CSharpCoursePolymExercise.exe
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\bin\Debug\net6.0\CSharpCoursePolymExercise.deps.json
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\bin\Debug\net6.0\CSharpCoursePolymExercise.runtimeconfig.json
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\bin\Debug\net6.0\CSharpCoursePolymExercise.dll
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\bin\Debug\net6.0\CSharpCoursePolymExercise.pdb
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.csproj.AssemblyReference.cache
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.AssemblyInfoInputs.cache
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.AssemblyInfo.cs
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.csproj.CoreCompileInputs.cache
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.dll
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\refint\CSharpCoursePolymExercise.dll
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.pdb
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\CSharpCoursePolymExercise.genruntimeconfig.cache
+D:\programming\C#\CSharpCoursePolymExercise\CSharpCoursePolymExercise\obj\Debug\net6.0\ref\CSharpCoursePolymExercise.dll
